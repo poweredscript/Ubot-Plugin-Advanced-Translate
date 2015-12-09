@@ -1,0 +1,35 @@
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\bin\Debug\Advanced Translate.dll.config
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\bin\Debug\Advanced Translate.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\bin\Debug\Advanced Translate.pdb
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\bin\Debug\ExprTranslator.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\bin\Debug\log4net.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\bin\Debug\UBotPlugin.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\bin\Debug\YandexTranslate.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\bin\Debug\Zlib.Portable.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\bin\Debug\log4net.xml
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\bin\Debug\Zlib.Portable.xml
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\obj\Debug\Advanced Translate.g.resources
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\obj\Debug\Advanced_Translate.Properties.Resources.resources
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\obj\Debug\Advanced Translate.csproj.GenerateResource.Cache
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\obj\Debug\Advanced Translate.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translator\obj\Debug\Advanced Translate.pdb
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\bin\Debug\Advanced Translate.dll.config
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\bin\Debug\Advanced Translate.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\bin\Debug\Advanced Translate.pdb
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\bin\Debug\ExprTranslator.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\bin\Debug\log4net.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\bin\Debug\UBotPlugin.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\bin\Debug\YandexTranslate.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\bin\Debug\Zlib.Portable.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\bin\Debug\log4net.xml
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\bin\Debug\Zlib.Portable.xml
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\obj\Debug\Advanced Translate.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\obj\Debug\Advanced Translate.g.resources
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\obj\Debug\Advanced_Translate.Properties.Resources.resources
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\obj\Debug\Advanced Translate.csproj.GenerateResource.Cache
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\obj\Debug\Advanced Translate.dll
+D:\Visual Studio\Projects\Advanced Translate\Advanced Translate\obj\Debug\Advanced Translate.pdb
